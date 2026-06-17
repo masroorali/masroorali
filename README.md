@@ -1,6 +1,6 @@
 # Hi, I'm Masroor Ali Khan 👋
 
-I’m a technology leader, Fractional CTO, Solution Architect, and Agentic AI Developer with 15+ years of experience in software development, solution architecture, enterprise systems, and digital transformation.
+I’m a technology leader, Fractional CTO, Solution Architect, and Agentic AI Engineer with 15+ years of experience in software development, solution architecture, enterprise systems, and digital transformation.
 
 I help businesses define technology strategies, design secure and scalable systems, modernize operations, and deliver high-impact digital solutions.
 
